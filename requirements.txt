@@ -1,0 +1,17 @@
+  pandas
+  numpy
+  scikit-learn
+  xgboost
+  matplotlib
+  seaborn
+  jupyter
+  ipykernel
+  shap
+  joblib
+  fastapi
+  uvicorn
+  httpx
+  pytest
+  streamlit
+  openai
+  python-dotenv
