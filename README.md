@@ -82,7 +82,6 @@ Accuracy is misleading here: every model scores about 99.9%.
 │   ├── dashboard.py            # Streamlit dashboard
 │   └── *.pkl                   # saved model, feature list and scalers
 ├── requirements.txt
-├── .env.example
 └── .gitignore
 ```
 
