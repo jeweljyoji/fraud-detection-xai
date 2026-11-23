@@ -91,8 +91,8 @@ Accuracy is misleading here: every model scores about 99.9%.
 **1. Set up**
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/jeweljyoji/fraud-detection-xai.git
+cd fraud-detection-xai
 python -m venv venv
 venv\Scripts\activate            # Windows  (macOS/Linux: source venv/bin/activate)
 pip install -r requirements.txt
